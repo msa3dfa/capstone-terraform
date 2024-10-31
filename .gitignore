@@ -1,0 +1,8 @@
+MyKey.pem
+terraform.tfstate
+terraform.tfstate.backup
+variables.tf
+.terraform/
+.terraform/**
+.terraform.lock.hcl
+capstone_keyv2.pem
